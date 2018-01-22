@@ -1,6 +1,12 @@
 body{
+    text-align: center;
     background-color: black;
     color: white;
+}
+h1{
+    font-family: sans-serif;
+    color: chartreuse;
+
 }
 div{
     background-color: blue;
